@@ -8,7 +8,9 @@ This repository contains Python scripts, Jupyter notebooks, and exercises coveri
 ---
 
 ## 📘 About
+
 This repository includes lecture notes, assignments, and practice notebooks written in Python.  
+
 It aims to help you understand:
 - Python Basics (syntax, data types, operators) and programming logic  
 - Functions, loops, and control structures
@@ -20,11 +22,11 @@ It aims to help you understand:
 
 ## 🧱 Git Commands for Uploading the Project
 
-git add .
-
-git commit -m "updated"
-
-git push origin main
+```bash
+    git add .
+    git commit -m "updated"
+    git push origin main
+```
 
 ---
 
