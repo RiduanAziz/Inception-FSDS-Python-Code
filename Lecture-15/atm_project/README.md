@@ -1,3 +1,8 @@
+# Simple ATM Project
+
+## Project Structure
+
+```bash
 atm_project/
 ├── main.py
 └── core/
@@ -5,5 +10,6 @@ atm_project/
     ├── database.py
     ├── auth.py
     └── transactions.py
+```
 
-
+---
