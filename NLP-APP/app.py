@@ -4,7 +4,6 @@ import os
 
 load_dotenv()
 
-
 class BaseModel:
     def get_model(self):
         try:
