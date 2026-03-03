@@ -13,9 +13,3 @@ pip install -r requirements.txt
 ```
 ---
 
-## To Run the UI
-
-```bash
-streamlit run app.py
-```
----
